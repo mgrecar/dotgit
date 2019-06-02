@@ -1,0 +1,12 @@
+[user]
+	name = "Matthew Grecar"
+	email = "mgrecar@gmail.com"
+[core]
+	editor = vim
+  excludesfile = ~/.gitignore
+[merge]
+	tool = vimdiff
+[commit]
+  template = ~/.gitmessage
+[push]
+	default = simple

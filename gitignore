@@ -1,0 +1,7 @@
+*.swp
+*~
+.byebug_history
+.vagrant/
+npm-debug.log
+.direnv
+.envrc
